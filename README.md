@@ -8,8 +8,8 @@ Steps taken so far:
 * Ran some examples to test sklearn pakages and understand how data is processed
 * Imported the original pipeline into the jupyter notebook environment
 * Incorporated pipeline improvements into the Jupyter notebook
+* Ensure all possible data points are being preprocessed
 
 To-Do:
 * Create an Roc curve model and test it on one task type
-* Ensure all data points are being preprocessed
 * Incorporate more task types into the ROC curve model
